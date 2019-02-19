@@ -1,0 +1,24 @@
+.font-sz-2rem{
+    font-size: 2rem;
+}
+.carousel-inner img {
+    width: 100%;
+    height: 20rem;
+  }
+.form-pos{
+    background: #adb5bd5e;
+    position: absolute;
+    top: 10rem;
+    z-index: 9999;
+    left: 30rem;
+}
+.hig-20{
+    height: 20rem;
+}
+.z-index{
+    z-index: 99999;
+}
+.sidenav{
+    width: 20%;
+    height: 36rem;
+}
